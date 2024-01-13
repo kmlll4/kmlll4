@@ -6,6 +6,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kmlll4&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,github,vscode,visualstudio,docker,aws,azure,tensorflow,pytorch,opencv,ros" /> <br /><br />
