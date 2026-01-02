@@ -1,89 +1,84 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=150&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer;%F0%9F%8C%8F+Based+in+Japan" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="400">
+
+<h3 align="center">🧑‍💻 About Me</h3>
+
+👋 **Katsuhiro**<br>
+💼 Backend Developer<br>
+📍 Tokyo, Japan
+
+<br>
+
+**🎯 Focus**
+
+・AI & Machine Learning<br>
+・Computer Vision<br>
+・Backend Systems<br>
+・Mobile Development
+
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="400">
 
-### 🎯 What I Do
+<h3 align="center">🛠️ Tech Stack</h3>
 
-- 🤖 **AI/ML Development** - Building intelligent systems
-- 👁️ **Computer Vision** - Image processing & analysis
-- ⚙️ **Backend Systems** - Scalable API development
-- 📱 **Mobile Development** - Cross-platform apps
-- ☁️ **Cloud Architecture** - AWS, GCP, Docker, K8s
+<div align="center">
 
-### 📍 Location
-Tokyo, Japan 🇯🇵
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,dart,bash&theme=dark" />
+
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,ros&theme=dark" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet&theme=dark" />
+
+**Database**  
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" />
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,linux,vscode&theme=dark" />
+
+</div>
 
 </td>
 </tr>
 </table>
 </div>
 
-<br/>
+<br>
 
-## 🛠️ Tech Stack
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
-### 💻 Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dart&theme=dark" alt="Languages" />
-</a>
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-### 🤖 AI & Machine Learning
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
-</a>
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
-### 📱 Mobile Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="Mobile" />
-</a>
-
-### ⚙️ Backend Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,dotnet&theme=dark" alt="Backend" />
-</a>
-
-### 🗄️ Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Database" />
-</a>
-
-### ☁️ Cloud & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,apache&theme=dark" alt="Cloud" />
-</a>
-
-### 🔧 Development Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux&theme=dark" alt="Tools" />
-</a>
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
 
-<br/>
+<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://git-hub-readme-stats-clone-seven.vercel.app/api?username=kmlll4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&v=2" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://git-hub-readme-stats-clone-seven.vercel.app/api/top-langs/?username=kmlll4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=10" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  
-  **⭐ From [kmlll4](https://github.com/kmlll4) with 💙**
-    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake.svg" />
+  </picture>
 </div>
