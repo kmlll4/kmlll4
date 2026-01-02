@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=150&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer;%F0%9F%8C%8F+Based+in+Japan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer;%F0%9F%8C%8F+Based+in+Japan" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-<table>
+<table width="800">
 <tr>
 <td valign="top" width="400">
 
@@ -61,13 +61,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="800" />
 
-<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="400" /><img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="400" />
 
-<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/3-stats.svg" width="400" /><img src="https://raw.githubusercontent.com/kmlll4/kmlll4/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="400" />
 
 </div>
 
@@ -79,6 +77,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kmlll4/kmlll4/output/github-snake.svg" width="800" />
   </picture>
 </div>
